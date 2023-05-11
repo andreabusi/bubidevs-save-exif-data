@@ -1,6 +1,6 @@
-# BubiDevs - 
+# BubiDevs - Come salvare un'immagine in Swift preservando i dati EXIF
 
-Questo progetto è associato all'articolo XXX
+Progetto di esempio associato all'articolo [Come salvare un'immagine in Swift preservando i dati EXIF](https://www.bubidevs.net/2023/05/11/come-salvare-unimmagine-in-swift-preservando-i-dati-exif/).
 
 Nel progetto viene mostrato come salvare in locale delle immagini contenute in un PHAsset, conservando i dati EXIF associati all'immagine.
 
